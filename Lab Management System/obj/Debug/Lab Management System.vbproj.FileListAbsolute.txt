@@ -1,0 +1,15 @@
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\bin\Debug\Lab Management System.exe.config
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\bin\Debug\Lab Management System.exe
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\bin\Debug\Lab Management System.pdb
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\bin\Debug\Lab Management System.xml
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.vbproj.AssemblyReference.cache
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab_Management_System.Form1.resources
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab_Management_System.Resources.resources
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.vbproj.GenerateResource.cache
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.vbproj.CoreCompileInputs.cache
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.exe
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.xml
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab Management System.pdb
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab_Management_System.Home.resources
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab_Management_System.SystemDetails.resources
+C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\obj\Debug\Lab_Management_System.LabDetails.resources

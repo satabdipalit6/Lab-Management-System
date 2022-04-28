@@ -1,0 +1,1 @@
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source="C:\PROJECT_PORTFOLIO\LAB Mangement System\Lab Management System\sysdtl_db.accdb"
